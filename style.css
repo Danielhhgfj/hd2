@@ -28,9 +28,16 @@ footer{
     flex-wrap: wrap;
 }
 
+
 .cartao{
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
     height: 20rem;
 }
 
+.conteudo-cartao{
+    background-color: var(--frente-cartão);
+    text-align: center;
+    height: 100%;
+    color: var(--branco);
+}
