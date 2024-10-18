@@ -114,9 +114,9 @@ criaCartão(
 )
 
 criaCartão(
-    'Matematica',
-    'Pergunta',
-    'Respostas'
+    'Português',
+    'O que é uma craze?',
+    'Crase é a contração da preposição a com outro a, que pode ser artigo definido ou pronome demonstrativo'
 )
 
 
