@@ -3,7 +3,7 @@
    --frente-cartão: #ff0000;
    --verso-cartão: #e70e0e;
    --destaque: #00FF00;
-   --preto: #000000;
+   --preto: #ff0000;
    --branco: #ffffff;
 }
 
@@ -40,4 +40,12 @@ footer{
     text-align: center;
     height: 100%;
     color: var(--branco);
+}
+
+.conteudo-cartao{
+    position: absolute;
+    text-align: left;
+    color: var(--destaque);
+    border: 1px solid var(--destaque);
+
 }
