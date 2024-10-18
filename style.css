@@ -44,7 +44,7 @@ footer{
     transition: transform 300ms ease-in-out;
 }
 
-.conteudo-cartao{
+.conteudo-cartao h3{
     position: absolute;
     text-align: left;
     color: var(--destaque);
@@ -62,5 +62,5 @@ footer{
 }
 
 .cartao:hover .conteudo-cartao{
-    transform: rotateY('180deg');
+    transform: rotateY(180deg);
 }
