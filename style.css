@@ -74,5 +74,8 @@ footer{
 }
 
 .resposta-cartao{
-    transform: rotateY(180deg); 
+    transform: rotateY(180deg);
+    background-color: var(--verso-cartão);
+    color: var(--destaque);
+    border: 2px solid var(--destaque);
 }
