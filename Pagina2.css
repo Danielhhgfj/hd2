@@ -55,4 +55,5 @@
  .resposta-cartao{
     background-color: var(--verso-cartão);
     padding: 40px;
+    display: none;
  }
