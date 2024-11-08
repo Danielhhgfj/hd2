@@ -56,4 +56,5 @@
     background-color: var(--verso-cartão);
     padding: 40px;
     display: none;
+    color: var(--preto);
  }
